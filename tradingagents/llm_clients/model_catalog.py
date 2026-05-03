@@ -36,6 +36,14 @@ MODEL_OPTIONS: ProviderModeOptions = {
             ("Claude Sonnet 4.5 - Agents and coding", "claude-sonnet-4-5"),
         ],
     },
+    "ark": {
+        "quick": [
+            ("Ark Code Latest - Best speed for coding/agents", "ark-code-latest"),
+        ],
+        "deep": [
+            ("Ark Code Latest - Best speed for coding/agents", "ark-code-latest"),
+        ],
+    },
     "google": {
         "quick": [
             ("Gemini 3 Flash - Next-gen fast", "gemini-3-flash-preview"),
